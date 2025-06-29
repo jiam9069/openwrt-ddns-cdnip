@@ -1,5 +1,5 @@
 
-### 相关教程请查看[甬哥博客与视频教程](https://ygkkk.blogspot.com/2023/09/openwrt-cdnip.html)
+ 
 
 ### 一键脚本
 ```
